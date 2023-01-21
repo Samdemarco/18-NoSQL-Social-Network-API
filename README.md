@@ -39,19 +39,16 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
 - [Tests](#tests)
 
 ## Installation
 
-The application is deployed at: [TechBlog](https://assignment14-techblog.herokuapp.com/)
-
 To run your own version of the app do the following:
 1. Clone this git repo to your computer
-2. Create a MySQL database in your `localhost` using the data in the `db` directory (`schema.sql`)
-3. Rename `.env.EXAMPLE` as `.env` and add your DB credentials 
-4. Inside a terminal run `npm install` to get all the necessary dependencies
+2. In your terminal type `npm install` 
+3. Once all dependencies are installed type `npm run start` or `npm run dev` for automatic "server restart" when modifying code 
+4. Use Insomnia to execute various CRUD/API calls
 
 
 ## Credits
