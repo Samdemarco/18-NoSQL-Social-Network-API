@@ -10,7 +10,7 @@ The application uses: `Node.js`, `MongoDB & Mongoose`, `Express.js`, and utilize
 
 Here is a snapshot of API calls using Insomnia:
     <br />
-![Tech Blog](TechBlogSnapshot.png)
+![Social Media API](Assignment18.gif)
 
 
 ## User Story
